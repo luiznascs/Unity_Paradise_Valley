@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5add47babd5d14dbf4bb7ed8733700, type: 3}
+  m_Name: NPC_3
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Sapo
+    profile: {fileID: 7946365620166837317, guid: 2824005e7ec09304fbcb469663762d93, type: 3}
+    sentence:
+      portuguese: Eai, cara!!! Beleza? Prazer, eu sou o sapo, primo do Wilson.
+  - actorName: Sapo
+    profile: {fileID: 7946365620166837317, guid: 2824005e7ec09304fbcb469663762d93, type: 3}
+    sentence:
+      portuguese: "\xC9 eu sei, \xE9 um apelido um pouco estanho, mas \xE9 que eu
+        vivo sempre em volta da lagoa, hehehe"
+  - actorName: Sapo
+    profile: {fileID: 7946365620166837317, guid: 2824005e7ec09304fbcb469663762d93, type: 3}
+    sentence:
+      portuguese: "Vamos l\xE1: encoste nesta parte de cima da lagoa, aperte a tecla
+        E e veja a M\xC1GICA acontecer... Ou n\xE3o."
+  - actorName: Sapo
+    profile: {fileID: 7946365620166837317, guid: 2824005e7ec09304fbcb469663762d93, type: 3}
+    sentence:
+      portuguese: "As chances de pescar s\xE3o de 50%. Voc\xEA pega um peixe OU N\xC3O!
+        HAHAHAHAHA"

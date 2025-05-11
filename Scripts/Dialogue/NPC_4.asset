@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5add47babd5d14dbf4bb7ed8733700, type: 3}
+  m_Name: NPC_4
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Chico
+    profile: {fileID: 568963210, guid: 58ed25038c2778048b8cc5411de8ff48, type: 3}
+    sentence:
+      portuguese: "Fala meu fi! B\xE3o? Prazer, Chico."
+  - actorName: Chico
+    profile: {fileID: 568963210, guid: 58ed25038c2778048b8cc5411de8ff48, type: 3}
+    sentence:
+      portuguese: "Eu s\xF4 o fazendero mais chique da regi\xE3o, ent\xE3o se apronta
+        ai que vou te ensinar a plantar."
+  - actorName: Chico
+    profile: {fileID: 568963210, guid: 58ed25038c2778048b8cc5411de8ff48, type: 3}
+    sentence:
+      portuguese: "Primero, oc\xEA tem que ir ali no lago do Sapo, na parte rasa,
+        e aperta a tecra E. Assim, oc\xEA vai coleta bastante \xE1gua!"
+  - actorName: Chico
+    profile: {fileID: 568963210, guid: 58ed25038c2778048b8cc5411de8ff48, type: 3}
+    sentence:
+      portuguese: Dipois, vorta aqui, aperta a tecla 2 e cava um buraco nessa parte
+        cercada ai.
+  - actorName: Chico
+    profile: {fileID: 568963210, guid: 58ed25038c2778048b8cc5411de8ff48, type: 3}
+    sentence:
+      portuguese: "Dipois que abri o buraco, aperta 3 e cume\xE7a a rega."
+  - actorName: Chico
+    profile: {fileID: 568963210, guid: 58ed25038c2778048b8cc5411de8ff48, type: 3}
+    sentence:
+      portuguese: "Quando subi a cenorinha, aperta E dinovo e oc\xEA vai coleta as
+        cenora! Fica a vontade pra faz\xEA o processo o quanto c\xEA quis\xE9!"
+  - actorName: Chico
+    profile: {fileID: 568963210, guid: 58ed25038c2778048b8cc5411de8ff48, type: 3}
+    sentence:
+      portuguese: "Oc\xEA podi num acredit\xE1, mas esse neg\xF3cio da dinhero em!
+        Dipois da uma passada ali no meu cazar\xE3o, ali em cima da pranta\xE7\xE3o..."

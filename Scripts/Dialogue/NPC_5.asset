@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5add47babd5d14dbf4bb7ed8733700, type: 3}
+  m_Name: NPC_5
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: ...
+    profile: {fileID: -2562161471375446480, guid: 21efe16a737bc404197962407ef7b834, type: 3}
+    sentence:
+      portuguese: "Ta olhando o qu\xEA, mano? Se quiser saber quem eu sou, t\xE1
+        perdendo tempo..."
+  - actorName: ...
+    profile: {fileID: -2562161471375446480, guid: 21efe16a737bc404197962407ef7b834, type: 3}
+    sentence:
+      portuguese: "Seguinte, se n\xE3o quiser encrenca, n\xE3o segue por esse caminho.
+        L\xE1 pra frente ta cheio de esqueleto!"
+  - actorName: ...
+    profile: {fileID: -2562161471375446480, guid: 21efe16a737bc404197962407ef7b834, type: 3}
+    sentence:
+      portuguese: "Apesar de n\xE3o te machucarem, eles s\xE3o SINISTROS... Ent\xE3o
+        d\xE1 meia volta, forasteiro!!!"
